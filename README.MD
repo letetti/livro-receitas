@@ -2,5 +2,5 @@
 
 aqui vc enconra as melhores receitas
 
-- strogonoff
-- 
+- strogonoff de frango
+- Pavê
